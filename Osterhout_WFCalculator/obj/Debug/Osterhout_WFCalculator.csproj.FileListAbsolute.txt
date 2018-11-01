@@ -1,0 +1,12 @@
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\bin\Debug\Osterhout_WFCalculator.exe.config
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\bin\Debug\Osterhout_WFCalculator.exe
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\bin\Debug\Osterhout_WFCalculator.pdb
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\obj\Debug\Osterhout_WFCalculator.csprojResolveAssemblyReference.cache
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\obj\Debug\Osterhout_WFCalculator.CalculatorForm.resources
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\obj\Debug\Osterhout_WFCalculator.Properties.Resources.resources
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\obj\Debug\Osterhout_WFCalculator.csproj.GenerateResource.Cache
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\obj\Debug\Osterhout_WFCalculator.csproj.CoreCompileInputs.cache
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\obj\Debug\Osterhout_WFCalculator.exe
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\obj\Debug\Osterhout_WFCalculator.pdb
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\obj\Debug\Osterhout_WFCalculator.Help.resources
+C:\Users\osterh3\Desktop\Osterhout_WFCalculator\Osterhout_WFCalculator\obj\Debug\Osterhout_WFCalculator.Result.resources
